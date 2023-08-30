@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpoTube.API", "SpoTube.API\SpoTube.API.csproj", "{B3935466-D984-4034-A08B-66043603ED27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpoTube.Application", "SpoTube.Application\SpoTube.Application.csproj", "{EA12F9EA-ABCF-44E4-B4FB-46FB5E80B26F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3935466-D984-4034-A08B-66043603ED27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3935466-D984-4034-A08B-66043603ED27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3935466-D984-4034-A08B-66043603ED27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3935466-D984-4034-A08B-66043603ED27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA12F9EA-ABCF-44E4-B4FB-46FB5E80B26F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA12F9EA-ABCF-44E4-B4FB-46FB5E80B26F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA12F9EA-ABCF-44E4-B4FB-46FB5E80B26F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA12F9EA-ABCF-44E4-B4FB-46FB5E80B26F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/home/vitordev/Desktop/Projects/SpoTube/SpoTube.Application/bin/Debug/net7.0/SpoTube.Application.deps.json
+/home/vitordev/Desktop/Projects/SpoTube/SpoTube.Application/bin/Debug/net7.0/SpoTube.Application.dll
+/home/vitordev/Desktop/Projects/SpoTube/SpoTube.Application/bin/Debug/net7.0/SpoTube.Application.pdb
+/home/vitordev/Desktop/Projects/SpoTube/SpoTube.Application/obj/Debug/net7.0/SpoTube.Application.csproj.AssemblyReference.cache
+/home/vitordev/Desktop/Projects/SpoTube/SpoTube.Application/obj/Debug/net7.0/SpoTube.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitordev/Desktop/Projects/SpoTube/SpoTube.Application/obj/Debug/net7.0/SpoTube.Application.AssemblyInfoInputs.cache
+/home/vitordev/Desktop/Projects/SpoTube/SpoTube.Application/obj/Debug/net7.0/SpoTube.Application.AssemblyInfo.cs
+/home/vitordev/Desktop/Projects/SpoTube/SpoTube.Application/obj/Debug/net7.0/SpoTube.Application.csproj.CoreCompileInputs.cache
+/home/vitordev/Desktop/Projects/SpoTube/SpoTube.Application/obj/Debug/net7.0/SpoTube.Application.dll
+/home/vitordev/Desktop/Projects/SpoTube/SpoTube.Application/obj/Debug/net7.0/refint/SpoTube.Application.dll
+/home/vitordev/Desktop/Projects/SpoTube/SpoTube.Application/obj/Debug/net7.0/SpoTube.Application.pdb
+/home/vitordev/Desktop/Projects/SpoTube/SpoTube.Application/obj/Debug/net7.0/ref/SpoTube.Application.dll

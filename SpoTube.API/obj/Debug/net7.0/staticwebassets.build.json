@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Fj2OstNYrUPybcr+9o4meNB64zN52Rb/N5h7qZv7D+E=",
+  "Source": "SpoTube.API",
+  "BasePath": "_content/SpoTube.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
